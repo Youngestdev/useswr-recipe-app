@@ -1,4 +1,4 @@
-# react-query-app
+# useSWR Recipe App
 
-Recipe App showcasing react-query's feature. Find the article [here](#)
+Recipe App showcasing useSWR's feature. Find the article [here](#)
 
